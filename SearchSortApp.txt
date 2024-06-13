@@ -1,0 +1,133 @@
+Java Application for Searching and Sorting
+
+1. Algorithms Available:
+
+Searching: Linear Search, Binary Search
+Sorting: Bubble Sort, Quick Sort, Merge Sort
+
+2. Running Time Analysis:
+
+Theoretical:
+Linear Search: 
+𝑂
+(
+𝑛
+)
+O(n)
+Binary Search: 
+𝑂
+(
+log
+⁡
+𝑛
+)
+O(logn)
+Bubble Sort: 
+𝑂
+(
+𝑛
+2
+)
+O(n 
+2
+ )
+Quick Sort: 
+𝑂
+(
+𝑛
+log
+⁡
+𝑛
+)
+O(nlogn) on average, 
+𝑂
+(
+𝑛
+2
+)
+O(n 
+2
+ ) in worst case
+Merge Sort: 
+𝑂
+(
+𝑛
+log
+⁡
+𝑛
+)
+O(nlogn)
+
+3. Time Complexity:
+
+Linear Search: Best 
+𝑂
+(
+1
+)
+O(1), Worst 
+𝑂
+(
+𝑛
+)
+O(n)
+Binary Search: Best 
+𝑂
+(
+1
+)
+O(1), Worst 
+𝑂
+(
+log
+⁡
+𝑛
+)
+O(logn)
+Bubble Sort: Best 
+𝑂
+(
+𝑛
+)
+O(n), Worst 
+𝑂
+(
+𝑛
+2
+)
+O(n 
+2
+ )
+Quick Sort: Best 
+𝑂
+(
+𝑛
+log
+⁡
+𝑛
+)
+O(nlogn), Worst 
+𝑂
+(
+𝑛
+2
+)
+O(n 
+2
+ )
+Merge Sort: Best and Worst 
+𝑂
+(
+𝑛
+log
+⁡
+𝑛
+)
+O(nlogn)
+
+4. User Interaction and Display:
+
+Input list from user at runtime.
+Choose algorithm for search/sort.
+Output the sorted list or search result.
+Display running time.
